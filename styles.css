@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+img{
+	width:60%;
+	height:50%;
+	object-fit:cover;
+}
+
+
